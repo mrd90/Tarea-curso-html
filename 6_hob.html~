@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<link rel="stylesheet" href="css\style.css">
+		<title>Titulo ...</title>
+	</head>
+	
+	<body>
+		<img src="studio.jpg" id="id_img_fondo" />
+		
+			<table border="1" align="center" width="800">
+			<tr>
+			
+				<td><a href="Index.html"><b>Inicio</b></td>
+				<td><a href="2_Est.html"><b>Para los amantes de <br> la estabilidad</b></a></td>
+				<td><a href="3_pri.html"><b>Para principiantes</b></a></td>
+				<td><a href="4_cel.html"><b>Para celosos de su privacidad</b></a></td>
+				<td><a href="5_Eco.html"><b>Para los equipos <br> menos potentes</b></td>
+				<td><b>Para los apasionados <br> de los hobbies</b></a></td>
+			</tr>
+			<tr>
+				<td colspan="6" height="480" valign="top" align="left">
+					
+					<h3>Para los apasionados de los hobbies:</h3>
+					<ul>
+						<li>Distro Astro: Esta distribución está basada en Ubuntu 14.04 LTS y utiliza
+						el entorno de escritorio MATE, aunque lo más importante es su completa
+						colección de aplicaciones dirigidas a los amantes de la astronomía.
+						</li><br>
+						<li>SteamOS: Aun en fase beta, esta es la distribución basada en Debian 
+						desarrollada por Valve, y que está más dirigida a ser una especie de media
+						center para videojuegos integrando el modo big picture que un sistema de
+						sobremesa.
+						</li><br>
+						<li>ArtistX: Distribución de Linux enfocada en la producción multimedia. 
+						Basada en Ubuntu, aunque diseñada para ser utilizada en formato LiveDVD y USB,
+						se puede instalar en cualquier equipo. Usa el entorno KDE y ofrece una colección
+						de programas de código abierto para edición de vídeo y creación de gráficos 2D
+						y 3D.
+						</li><br>
+						<li>Ubuntu Studio: Basada en Ubuntu y orientada a la edición multimedia 
+						profesional de audio, video y gráficos. Utiliza el entorno de escritorio 
+						Xfce y no lleva preinstalado ningún tipo de software ofimático, sólo el 
+						diseñado para la edición multimedia.
+						</li>
+					</ul>	
+					
+				
+				</td>
+			</tr>
+			</table>
+			
+		
+	</body>
+</html>

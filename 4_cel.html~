@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<link rel="stylesheet" href="css\style.css">
+		<title>Titulo ...</title>
+	</head>
+	
+	<body>
+		<img src="kali.jpg" id="id_img_fondo" />
+		
+			<table border="1" align="center" width="800">
+			<tr>
+			
+				<td><a href="Index.html"><b>Inicio</b></td>
+				<td><a href="2_Est.html"><b>Para los amantes de <br> la estabilidad</b></a></td>
+				<td><a href="3_pri.html"><b>Para principiantes</b></a></td>
+				<td><b>Para celosos de su privacidad</b></td>
+				<td><a href="5_Eco.html"><b>Para los equipos <br> menos potentes</b></a></td>
+				<td><a href="6_Hob.html"><b>Para los apasionados <br> de los hobbies</b></a></td>
+			</tr>
+			<tr>
+				<td colspan="6" height="480" valign="top" align="left">
+					
+					<h3>Para celosos de su privacidad:</h3>
+					<ul>
+						<li>Tails: Promocionada por el propio Edward Snowden y basada en Debian, es una
+						distribución lista para ser ejecutada desde un USB o DVD. Tails se conecta a TOR 
+						tan pronto termina el proceso de inicio del sistema operativo, y toda conexión a
+						Internet se realiza a través de esta red.
+						</li><br>
+						<li>Kali Linux: Distribución basada en Debian con una inmensa colección de 
+						herramientas para proteger nuestros equipos. Utiliza un kernel personalizado
+						con parches de seguridad y tiene soporte para la arquitectura ARM.
+						</li><br>
+						<li>BlackArch Linux: Una distribución orientada a la seguridad informática que en un principio
+						nació como expansión de Arch Linux, pero que ha seguido su propio camino. Nos
+						da acceso a una impresionante cantidad de herramientas de hacking entre las que 
+						destaca Sploitctl, un script que permite instalar, actualizar y buscar sploits.
+						</li><br>
+						<li>Arch Assault: Se trata de una nueva distribución, también basada en Arch 
+						Linux y muy parecida a la anterior, también dirigida a hackers y amantes de la 
+						seguridad. Minimalista, con gestor de ventanas Openbox acompañado por el panel
+						Tint2, a pesar de estar aun verde ya ofrece soporte para arquitecturas ARM.
+						</li>
+					</ul>	
+					
+				
+				</td>
+			</tr>
+			</table>
+			
+		
+	</body>
+</html>

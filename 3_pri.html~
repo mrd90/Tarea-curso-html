@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<link rel="stylesheet" href="css\style.css">
+		<title>Titulo ...</title>
+	</head>
+	
+	<body>
+		<img src="Mint4.png" id="id_img_fondo" />
+		
+			<table border="1" align="center" width="800">
+			<tr>
+			
+				<td><a href="Index.html"><b>Inicio</b></td>
+				<td><a href="2_Est.html"><b>Para los amantes de <br> la estabilidad</b></a></td>
+				<td><b>Para principiantes</b></td>
+				<td><a href="4_Cel.html"><b>Para celosos de su privacidad</b></a></td>
+				<td><a href="5_Eco.html"><b>Para los equipos <br> menos potentes</b></a></td>
+				<td><a href="6_Hob.html"><b>Para los apasionados <br> de los hobbies</b></a></td>
+			</tr>
+			<tr>
+				<td colspan="6" height="480" valign="top" align="left">
+					
+					<h3>Para principiantes:</h3>
+					<ul>
+						<li>Ubuntu: Una de las distribuciones más utilizadas gracias a su gran facilidad 
+						de uso. Basada en Debian, es amada y odiada por partes iguales por su exclusivo
+						entorno de escritorio Unity, con el que persigue convertirse en una distribución
+						versátil que pueda utilizarse tanto en ordenadores como móviles y tabletas.
+						</li><br>
+						<li>Linux Mint: Basado en Ubuntu, es uno de los más recomendados para todos aquellos
+						que tocan Linux por primera vez. Su entorno de escritorio, Cinnamon, tiene muchas 
+						similitudes con el de Windows, y es también uno de los más personalizables.
+						</li><br>
+						<li>Elementary OS: De todas las distribuciones basadas en Ubuntu, esta una de las
+						que más personalidad tiene gracias a su cuidadísimo aspecto, que imita el del
+						sistema operativo OS X de Apple. Increíblemente rápida y fácil de usar, le ofrece
+						al usuario todo lo que pueda necesitar desde el primer momento, incluyendo una 
+						colección de aplicaciones propias diseñadas para integrarse a la perfección con 
+						su estilo visual.
+						</li>
+					</ul>	
+					
+				
+				</td>
+			</tr>
+			</table>
+			
+		
+	</body>
+</html>

@@ -1,0 +1,39 @@
+body {  	
+  	background-repeat:no-repeat;
+  	background-position:center top;
+  	background-attachment:fixed;
+	background-size: 100% 100%;		
+	}
+
+tr {   
+    text-align: center; 
+    font-size:12px;
+	}
+
+h2 {
+	color:#FFF;}
+
+h3 {
+	color:#FFF;}
+
+a {
+  	color:#6CF;
+  	text-decoration: none;
+	}
+
+a:hover {
+	color:#EEF;
+	}
+
+li {
+	font-size:14px;
+	text-align: justify;
+	color:#FFF;}
+
+.fondogrisclaro {	
+	background: rgba(150,150,150,0.3);}
+
+.fondogrisoscuro {
+	background: #555;}
+
+p 	{color:#fff;}

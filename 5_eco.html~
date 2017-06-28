@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<link rel="stylesheet" href="css\style.css">
+		<title>Titulo ...</title>
+	</head>
+	
+	<body>
+		<img src="slitaz.jpg" id="id_img_fondo" />
+		
+			<table border="1" align="center" width="800">
+			<tr>
+			
+				<td><a href="Index.html"><b>Inicio</b></td>
+				<td><a href="2_Est.html"><b>Para los amantes de <br> la estabilidad</b></a></td>
+				<td><a href="3_pri.html"><b>Para principiantes</b></a></td>
+				<td><a href="4_cel.html"><b>Para celosos de su privacidad</b></a></td>
+				<td><b>Para los equipos <br> menos potentes</b></td>
+				<td><a href="6_Hob.html"><b>Para los apasionados <br> de los hobbies</b></a></td>
+			</tr>
+			<tr>
+				<td colspan="6" height="480" valign="top" align="left">
+					
+					<h3>Para los equipos menos potentes:</h3>
+					<ul>
+						<li>Puppy Linux: Una minúscula distribución que puede llevarse en un USB
+						o CD, pero sorprendentemente rápida al cargarse enteramente en la memoria
+						RAM del ordenador. Se carga en 30 o 40 segundos y ocupa sólo 100 MB.
+						</li><br>
+						<li>Lubuntu: Se trata de una versión de Ubuntu mucho más ligera y asequible
+						para equipos poco potentes al utilizar el sistema de escritorio LXDE y el
+						gestor de ventanas Openbox. También incluye software personalizado bastante 
+						más ligero, por lo que sólo nos pide 128MB de RAM y un Pentium II o Celeron 
+						de 1999 para funciona.
+						</li><br>
+						<li>Damn Small Linux: Distribución especialmente diseñada para los equipos
+						más antiguos, como los Pentium de primera generación o incluso los i486.
+						Como entorno gráfico y gestor de ventanas nos propone JWM, su iso ocupa 
+						apenas 50 MB y sólo nos pide como mínimo un Intel 486DX y 16 MB de memoria RAM.
+						</li><br>
+						<li>SliTaz: Otro peso pluma aunque con un software ligeramente más moderno
+						que el del anterior. Utiliza el entorno Openbox y sólo necesita un Pentium 
+						III con 256MB de RAM y 100 MB libres en el disco duro para funcionar.
+						</li>
+					</ul>	
+					
+				
+				</td>
+			</tr>
+			</table>
+			
+		
+	</body>
+</html>
